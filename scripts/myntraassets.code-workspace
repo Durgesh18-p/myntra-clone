@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "myntraassets",
+			"path": "../../../../../../AI_RecycleBin/{3E7E6FE9-A9FA-410C-ABA8-820AA8760060}/0/Downloads/myntraassets"
+		},
+		{
+			"name": "myntra-clone",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "myntra-clone"
+	}
+}

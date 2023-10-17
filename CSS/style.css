@@ -92,6 +92,11 @@ a.action_container:link {
     font-family: Assistant,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
     box-sizing: border-box;
 }
+
+body {
+    width: 100vw;
+}
+
 header {
     display: flex;
     background-color: #ffffff;
